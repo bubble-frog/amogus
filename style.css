@@ -1,0 +1,25 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.gamename{
+    font-size: 36px;
+}
+.game-game-div{
+    padding-left: 0px;
+    padding-right: 0px;
+    float:none;
+}
